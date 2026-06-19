@@ -128,7 +128,7 @@ The dashboard includes:
 
 ## 📈 Results & Conclusion
 
-The dashboard confirms that Maharashtra, Karnataka, and Tamil Nadu are Amazon.in's top three revenue-contributing states for apparel. T-shirts dominate sales volume; the medium size is the most popular, and Ekart is the primary last-mile delivery partner. Amazon's own fulfillment center significantly outperforms merchant fulfillment. The 4.62% cancellation rate is low, but the 5.18% unshipped orders flag a logistics gap worth monitoring.
+The dashboard confirms that Maharashtra, Karnataka, and Tamil Nadu are Amazon.in its top three revenue-contributing states for apparel. T-shirts dominate sales volume; the medium size is the most popular, and Ekart is the primary last-mile delivery partner. Amazon's own fulfillment center significantly outperforms merchant fulfillment. The 4.62% cancellation rate is low, but the 5.18% unshipped orders flag a logistics gap worth monitoring.
 
 This project proves that even without DAX, Power BI with a clean Excel source produces business-grade insights for e-commerce operations.
 
